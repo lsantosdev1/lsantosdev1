@@ -41,5 +41,5 @@ Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em có
 ---
 
 📫 **Como me encontrar:**
-* **LinkedIn:** [https://www.linkedin.com/in/luansantosdev/](https://www.linkedin.com/in/luansantosdev/) 
+* **LinkedIn:** [https://www.linkedin.com/in/luansantosdev/](https://www.linkedin.com/in/1luansantosdev/) 
 * **Email:** lsantos2152@gmail.com
