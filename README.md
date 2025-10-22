@@ -1,7 +1,7 @@
 Olá! Eu sou o Luan Santos 👋
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/1luansantosdev/" target="_blank">
+<a href="https://www.linkedin.com/in/1luansantosdev/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="https://www.google.com/search?q=https://luan-portfolio-git-main-luan-santos-projects-9f68700d.vercel.app/" target="_blank">
@@ -27,7 +27,7 @@ Sou um entusiasta da tecnologia, fascinado por como o código pode resolver prob
 
 📊 Minhas Estatísticas no GitHub
 
-
+<!-- GitHub Stats - Verifique se 'lsantosdev1' é o seu username correto -->
 
 <p align="center">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlsantosdev1%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
