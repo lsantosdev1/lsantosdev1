@@ -15,10 +15,11 @@ Desenvolvedor Full-Stack em formação, apaixonado por transformar ideias em có
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<!-- GitHub Stats - Verifique se 'lsantosdev1' é o seu username correto -->
+
+<!-- GitHub Stats - Tema Tokyo Night -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
