@@ -66,4 +66,4 @@ Minha jornada no desenvolvimento tem sido focada em **aprender na prática**, co
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/1luansantosdev/)  
 - 📧 Email: **lsantos2152@gmail.com**
-- 🌐 [Meu Portfólio](https://luan-portfolio-git-main-luan-santos-projects-9f68700d.vercel.app/)
+- 🌐 [Meu Portfólio](https://lsantosdev.vercel.app/)
