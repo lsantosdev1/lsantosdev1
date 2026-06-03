@@ -115,18 +115,11 @@ https://lsantosdev.vercel.app
 
 # 📈 Estatísticas
 
+<h2>📊 Estatísticas</h2>
+
 <p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&theme=tokyonight"
-/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
