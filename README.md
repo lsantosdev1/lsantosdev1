@@ -117,8 +117,12 @@ https://lsantosdev.vercel.app
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+  <a href="https://github.com/lsantosdev1">
+    <img src="https://github-readme-stats.vercel.app/api?username=lsantosdev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  </a>
+  <a href="https://github.com/lsantosdev1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantosdev1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+  </a>
 </p>
 
 # 🌎 Onde me encontrar
