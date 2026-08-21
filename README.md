@@ -82,7 +82,7 @@ Sistema de gerenciamento desenvolvido para automatizar agendamentos e administra
 
 React • Node.js • MongoDB • Express
 
----
+🔗 Acesse:https://pride-barbers-dashboard.vercel.app/
 
 ## 🌐 Portfólio Profissional
 
